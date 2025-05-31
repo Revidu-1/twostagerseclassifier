@@ -1,0 +1,28 @@
+# Deep learning framework
+torch>=2.0.0
+torchaudio>=2.0.2
+
+# Audio processing
+librosa>=0.10.0
+
+# Transformers for AST model
+transformers>=4.28.1
+
+# Data handling and visualization
+numpy>=1.22.4
+pandas>=1.5.3
+matplotlib>=3.7.1
+seaborn>=0.12.2
+
+# Machine learning utilities
+scikit-learn>=1.2.2
+
+# Progress bars
+tqdm>=4.65.0
+
+# File handling
+glob2>=0.7
+
+# Optional - for GPU acceleration
+# Uncomment if using CUDA
+# nvidia-cudnn-cu11>=8.6.0
